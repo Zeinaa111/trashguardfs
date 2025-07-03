@@ -1,5 +1,6 @@
 # TrashGuardFS
 
+
 TrashGuardFS is a simple, cross-platform command-line tool written in Java that helps you locate and clean "trash" or unnecessary folders from your file system.
 ---
 
